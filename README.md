@@ -40,7 +40,7 @@ Follow these steps to get the project up and running locally:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jaishank94/react-assesment-tdd.git
 cd react-assesment-tdd
 ```
 
