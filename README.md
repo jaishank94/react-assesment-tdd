@@ -132,5 +132,3 @@ Feel free to test and explore the application! If you have any feedback or quest
 ### **Enjoy using the String Calculator!**
 
 ---
-
-This `README.md` provides a comprehensive overview of the assessment task, setup instructions, and usage details. Adjust any information that may differ from your actual implementation. Let me know if you'd like any other specific sections added!
