@@ -1,4 +1,3 @@
-Certainly! Below is a sample `README.md` file that you can use for your TDD assessment project. Feel free to adjust any information based on your actual implementation and project setup.
 
 ---
 
